@@ -1,1 +1,8 @@
-# ClassProject
+# POL 681 - ClassProject
+
+**Introduction**
+**Literature review**
+**Theory/hypotheses**
+**Data/methods**
+**Results**
+**Conclusion**
